@@ -39,7 +39,7 @@ int main (void){
 
     const int SIZES[7] = {1000, 5000, 10000, 15000, 20000, 30000, MAX_WORDS};
 
-    loop for every function excep quick_sort
+    //loop for every function excep quick_sort
     for(int func_n = 0; func_n < 5; func_n++){
         for (int size_n = 0; size_n < 7; size_n++){
             string word, word_array[40000];
